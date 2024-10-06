@@ -1,2 +1,11 @@
-- Hi, I’m @iamselimj
-- I’m interested in Web Development, Bot Development, Cybersecurity & Decentralized Finance.
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   19.c                                               :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: sjacquet <sjacquet@student.s19.be>         +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2024/09/14 20:57:38 by sjacquet          #+#    #+#             */
+/*   Updated: 2024/09/15 11:56:24 by sjacquet         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
