@@ -1,6 +1,6 @@
 # Hi, @iamselimj 👋
 
-I started wev development on Microsoft FrontPage as a young kid, trying to make a website for my favorite game at that time.
+I started web development on Microsoft FrontPage as a young kid, trying to make a website for my favorite game at that time.
 But it was too complex and can't understand english as a french native.
 
 Later on, I found a free C programming course in french so I just followed the tutorial and make a little Mario Sokoban Game.
