@@ -1,6 +1,5 @@
 # Hi there, I'm @iamselimj! 👋
 
-## About Me
 I started wev development on Microsoft FrontPage as a young kid, trying to make a website for my favorite game at that time.
 But it was too complex and can't understand english as a french native.
 
