@@ -18,8 +18,6 @@ In constant evolution, I strive to enhance my skills through practice and contin
 - **September 2024**: Participated in the Piscine (Coding Bootcamp) @ Campus 19 in Brussels.
 - **Since October 2024**: Official student @ 19 (member of the 42 network).
 
-I'm excited to see where this adventure will take me in the next two years.
-
 Thank you for your interest in my journey!
 
 💻 Happy Coding!
