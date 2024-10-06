@@ -15,8 +15,8 @@ My journey into the world of development began at a young age with Microsoft Fro
 
 In constant evolution, I strive to enhance my skills through practice and continuous learning.
 
-- **September 2024**: Participated in the "piscine" (intensive coding bootcamp) at Campus 19 (programming school) in Brussels.
-- **Since October 2024**: Official student at 19 (member of the 42 network).
+- **September 2024**: Participated in the Piscine (Coding Bootcamp) @ Campus 19 in Brussels.
+- **Since October 2024**: Official student @ 19 (member of the 42 network).
 
 I'm excited to see where this adventure will take me in the next two years.
 
