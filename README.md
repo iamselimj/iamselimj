@@ -22,6 +22,4 @@ I'm excited to see where this adventure will take me in the next two years.
 
 Thank you for your interest in my journey!
 
-[@iamselimj](https://github.com/iamselimj)
-
 💻 Happy Coding!
