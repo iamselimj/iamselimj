@@ -4,8 +4,9 @@
 I started wev development on Microsoft FrontPage as a young kid, trying to make a website for my favorite game at that time.
 But it was too complex and can't understand english as a french native.
 
-Later on, I found a free C programming course in french so I just followed the tutorial and make a little Mario Sokoban.
-Few years after I took the decision to work in IT as a Developer. I started learning about html/css, learned programming again using Java.
+Later on, I found a free C programming course in french so I just followed the tutorial and make a little Mario Sokoban Game.
+Few years after I took the decision to work in IT as a Developer.
+I started learning about html/css, learned programming again using Java.
 
 After that I learned a bit of javascript and directly move on to Typescript.
 I learned React, Tailwindcss & Nextjs on the fly. Most crazy short learning curve. Best DX ever.
@@ -20,11 +21,5 @@ Let's see where I will be in 2 years.
 
 Thanks for reading.
 @iamselimj.
-
-## My Projects
-You can find all my projects right here on my GitHub profile.
-
-## Let's Connect
-If you want to connect with me, find a way to send me a message.
 
 💻 Happy Coding!
