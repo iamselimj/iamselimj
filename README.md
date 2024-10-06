@@ -1,27 +1,27 @@
 # Hi, @iamselimj 👋
 
-I started web development on Microsoft FrontPage as a young kid, trying to make a website for my favorite game at that time.
-But it was too complex and can't understand english as a french native.
+## My Development Journey
 
-Later on, I found a free C programming course in french so I just followed the tutorial and make a little Mario Sokoban Game.
-Few years after I took the decision to work in IT as a Developer.
-I started learning about html/css, learned programming again using Java.
+My journey into the world of development began at a young age with Microsoft FrontPage, driven by a desire to create a website for my favorite game. Despite the language barrier, this experience planted the seeds of my passion.
 
-After that I learned a bit of javascript and directly move on to Typescript.
+## Growth and Learning
 
-I learned React, Tailwindcss & Nextjs on the fly. Easypeazy.
+- **Programming Beginnings**: First steps with C, creating a Mario Sokoban game.
+- **Transition to Web Development**: Progressive mastery of HTML/CSS, Java, then JavaScript and TypeScript.
+- **Modern Technologies**: Quick adoption of React, Tailwind CSS, and Next.js.
+- **Backend Skills**: Exploration of APIs, authentication, storage, and databases (primarily PostgreSQL) with ORMs like Prisma and Drizzle.
 
-Then I learned about backend, APIs, auth, storage, databases (mainly postgresql), ORMs (prisma, drizzle).
+## Continuous Education
 
-I'm not that bad but I'm still not a professional. So I just keep working, becoming better, learning & practicing, more & more.
+In constant evolution, I strive to enhance my skills through practice and continuous learning.
 
-In September 2024, I did the piscine of the Campus 19 Programming School based in Brussels, Belgium.
+- **September 2024**: Participated in the "piscine" (intensive coding bootcamp) at Campus 19 (programming school) in Brussels.
+- **Since October 2024**: Official student at 19 (member of the 42 network).
 
-Since October 2024, I'm now officially a student of 19 (Members of 42).
-Let's see where I will be in 2 years.
+I'm excited to see where this adventure will take me in the next two years.
 
-Thanks for reading.
+Thank you for your interest in my journey!
 
-@iamselimj.
+[@iamselimj](https://github.com/iamselimj)
 
 💻 Happy Coding!
