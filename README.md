@@ -17,6 +17,7 @@ Then I learned about backend, APIs, auth, storage, databases (mainly postgresql)
 I'm not that bad but I'm still not a professional. So I just keep working, becoming better, learning & practicing, more & more.
 
 At that time, I started the Piscine event of Campus 19, members of 42. Based in Brussels, Belgium.
+
 I'm now officially a student of 19 (Members of 42).
 Let's see where I will be in 2 years.
 
