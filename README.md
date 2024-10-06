@@ -10,7 +10,7 @@ Few years after I took the decision to work in IT as a Developer. I started lear
 After that I learned a bit of javascript and directly move on to Typescript.
 I learned React, Tailwindcss & Nextjs on the fly. Most crazy short learning curve. Best DX ever.
 
-The I learned about backend, APIs, auth, storage, databases (mainly postgresql), ORMs (prisma, drizzle).
+Then I learned about backend, APIs, auth, storage, databases (mainly postgresql), ORMs (prisma, drizzle).
 
 I'm not that bad but I'm still not a professional. So I just keep working, becoming better, learning & practicing, more & more.
 
