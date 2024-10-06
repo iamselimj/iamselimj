@@ -9,7 +9,8 @@ Few years after I took the decision to work in IT as a Developer.
 I started learning about html/css, learned programming again using Java.
 
 After that I learned a bit of javascript and directly move on to Typescript.
-I learned React, Tailwindcss & Nextjs on the fly. Most crazy short learning curve. Best DX ever.
+
+I learned React, Tailwindcss & Nextjs on the fly. Easypeazy.
 
 Then I learned about backend, APIs, auth, storage, databases (mainly postgresql), ORMs (prisma, drizzle).
 
