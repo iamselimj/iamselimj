@@ -1,6 +1,6 @@
 # 💻 Software Developer
 
-## 👨‍💻 Presentation
+## 👨‍💻 Brief Presentation
 
 Hey! I'm a software developer based in Brussels. 🇧🇪
 
