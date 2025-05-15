@@ -1,7 +1,5 @@
 # 💻 Software Developer
 
-## 👨‍💻 Brief Presentation
-
 Hey! I'm a software developer based in Brussels. 🇧🇪
 
 I like building full-stack web applications using modern technologies. 🧰
