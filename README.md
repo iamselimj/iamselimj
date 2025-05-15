@@ -10,14 +10,6 @@ I believe in open-source, strong typing, brutal debugging, and learning from the
 
 [![](https://skillicons.dev/icons?i=bash,c,go,typescript,react,next,tailwindcss,prisma,postgresql,linux,kali,github,docker,aws,vercel)](https://skillicons.dev)
 
-## 📺 Tech Youtubers That Inspire Me
-
-These creators constantly push my curiosity:
-
-* [ThePrimeagen](https://www.youtube.com/@ThePrimeagen)
-* [AnthonyGG](https://www.youtube.com/@anthonygg)
-* [Low Level Learning](https://www.youtube.com/@LowLevelLearning)
-
 ## 🎸 Bands That I Love
 
 Music I love to listen to when I'm coding:
