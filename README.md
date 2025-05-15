@@ -8,7 +8,7 @@ While I code, I like to listen to AC/DC, Van Halen, Metallica... (Thanks dad ðŸ¤
 
 ## ðŸ§¬ Technologies I Love
 
-[![](https://skillicons.dev/icons?i=bash,c,go,typescript,react,next,tailwindcss,prisma,postgresql,linux,kali,github,docker,aws,vercel)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=bash,c,go,typescript,react,next,tailwindcss,prisma,postgresql,linux,kali,github,docker,aws)](https://skillicons.dev)
 
 ---
 
