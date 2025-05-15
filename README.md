@@ -6,6 +6,10 @@ Hey! I'm a developer who loves low-level systems, clean design, and building pow
 
 I believe in open-source, strong typing, brutal debugging, and learning from the best.
 
+## 🧰 Technologies I Love
+
+[![](https://skillicons.dev/icons?i=bash,c,go,typescript,react,next,tailwindcss,prisma,postgresql,linux,kali,github,docker,aws,vercel)](https://skillicons.dev)
+
 ## 📺 Tech Youtubers That Inspire Me
 
 These creators constantly push my curiosity:
@@ -16,16 +20,12 @@ These creators constantly push my curiosity:
 
 ## 🎸 Bands That I Love
 
-Code & rock—always better together:
+Music I love to listen to when I'm coding:
 
 * AC/DC
 * Van Halen
 * Metallica
 * Depeche Mode
 * Tears for Fears
-
-## 🧰 Technologies I Love
-
-[![](https://skillicons.dev/icons?i=bash,c,go,typescript,react,next,tailwindcss,prisma,postgresql,linux,kali,github,docker,aws,vercel)](https://skillicons.dev)
 
 *“Code is art. Languages are brushes. Terminal is the canvas.”*
