@@ -8,8 +8,6 @@ I like building full-stack web applications using modern technologies.
 
 While I code, I like to listen to AC/DC, Van Halen, Metallica, Depeche Mode, Tears for Fears, The Clash... (Thanks dad 🙏)
 
----
-
 ## 🧰 Technologies I Love
 
 [![](https://skillicons.dev/icons?i=bash,c,go,typescript,react,next,tailwindcss,prisma,postgresql,linux,kali,github,docker,aws,vercel)](https://skillicons.dev)
