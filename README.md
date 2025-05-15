@@ -6,7 +6,7 @@ Hey! I'm a software developer based in Brussels.
 
 I like building full-stack web applications using modern technologies.
 
-While I code, I like to listen to AC/DC, Van Halen, Metallica, Depeche Mode, Tears for Fears, The Clash... (Thanks dad 🙏)
+While I code, I like to listen to AC/DC, Van Halen, Metallica... (Thanks dad 🙏)
 
 ## 🧰 Technologies I Love
 
