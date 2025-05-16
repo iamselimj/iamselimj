@@ -6,7 +6,7 @@ I'm actually learning software development at Campus 19 (Member of 42 Network) i
 
 ## 🧬 Languages
 
-[![](https://skillicons.dev/icons?i=bash,c/c++,go,java,python,html,css,javascript,typescript)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=bash,c,cpp,go,java,python,html,css,javascript,typescript)](https://skillicons.dev)
 
 ## 🖥 Frontend
 
