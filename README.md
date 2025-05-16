@@ -1,8 +1,8 @@
-# 💻 Software Developer
+# 💻 Software Developer Student
 
-Hey! I'm a software developer based in Brussels. 🇧🇪
+Welcome folk!
 
-I like building full-stack applications using modern technologies. 🧰
+I'm actually learning software development at Campus 19 (Member of 42 Network) in Brussels, Beligum. 🇧🇪
 
 ## 🧬 Technologies I Love
 
