@@ -2,9 +2,7 @@
 
 Hey! I'm a software developer based in Brussels. 🇧🇪
 
-I like building full-stack web applications using modern technologies. 🧰
-
-While I code, I like to listen AC/DC, Van Halen, Metallica... (Thanks dad 🤟)
+I like building full-stack applications using modern technologies. 🧰
 
 ## 🧬 Technologies I Love
 
