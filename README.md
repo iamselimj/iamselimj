@@ -4,17 +4,21 @@ Welcome folks!
 
 I'm actually learning software development at Campus 19 (Member of 42 Network) in Brussels, Belgium. 🇧🇪
 
-## 🧬 Languages I like to work with
+## 🧬 Languages
 
-[![](https://skillicons.dev/icons?i=bash,c,go,python,sql,html,css,javascript,typescript)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=bash,c,c++,go,java,python,html,css,javascript,typescript)](https://skillicons.dev)
 
-## 🧬 Libraries/frameworks I like to work with
+## 🖥 Frontend
 
-[![](https://skillicons.dev/icons?i=tailwindcss)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=react,next,tailwindcss)](https://skillicons.dev)
 
-## 🫆 Technologies I like to work with
+## 💾 Backend
 
-[![](https://skillicons.dev/icons?i=apple,debian,kali,prisma,github,docker,aws)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=node,express,postgresql)](https://skillicons.dev)
+
+## 🫆 Technologies
+
+[![](https://skillicons.dev/icons?i=apple,debian,kali,github,docker,aws)](https://skillicons.dev)
 
 ---
 
