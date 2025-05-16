@@ -14,7 +14,7 @@ I'm actually learning software development at Campus 19 (Member of 42 Network) i
 
 ## 💾 Backend
 
-[![](https://skillicons.dev/icons?i=node,express,postgresql)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nodejs,express,postgresql)](https://skillicons.dev)
 
 ## 🫆 Technologies
 
