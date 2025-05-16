@@ -12,7 +12,7 @@ Well, you'll find all the source code of every project I did for the school plus
 
 ## 🖥 Frontend
 
-[![](https://skillicons.dev/icons?i=react,vite,remix,next,tailwindcss)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=react,vite,remix,next,tailwindcss,webpack)](https://skillicons.dev)
 
 ## 💾 Backend
 
@@ -20,7 +20,7 @@ Well, you'll find all the source code of every project I did for the school plus
 
 ## 🫆 Technologies
 
-[![](https://skillicons.dev/icons?i=apple,debian,kali,nodejs,apache,nginx,git,github,docker,aws)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=apple,debian,kali,nodejs,npm,nginx,git,github,docker,aws,vscode)](https://skillicons.dev)
 
 ---
 
