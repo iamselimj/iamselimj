@@ -14,7 +14,7 @@ I'm actually learning software development at Campus 19 (Member of 42 Network) i
 
 ## 🫆 Technologies I like to work with
 
-[![](https://skillicons.dev/icons?i=mac,debian,kali,postgresql,prisma,github,docker,aws)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=apple,debian,kali,postgresql,prisma,github,docker,aws)](https://skillicons.dev)
 
 ---
 
