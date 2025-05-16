@@ -1,8 +1,6 @@
-# 💻 Software Developer Student
+# 👋 Hey there!
 
-Welcome folks!
-
-I'm actually learning software development at Campus 19 (Member of 42 Network) in Brussels, Belgium. 🇧🇪
+I'm Selim - actually learning software development at Campus 19 (Member of 42 Network) in Brussels, Belgium. 🇧🇪
 
 ## 🧬 Languages
 
@@ -14,11 +12,11 @@ I'm actually learning software development at Campus 19 (Member of 42 Network) i
 
 ## 💾 Backend
 
-[![](https://skillicons.dev/icons?i=nodejs,express,postgresql)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=django,spring,express,postgresql,prisma)](https://skillicons.dev)
 
 ## 🫆 Technologies
 
-[![](https://skillicons.dev/icons?i=apple,debian,kali,github,docker,aws)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=apple,debian,kali,nodejs,github,docker,aws)](https://skillicons.dev)
 
 ---
 
