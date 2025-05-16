@@ -16,11 +16,11 @@ Well, you'll find all the source code of every project I did for the school plus
 
 ## 💾 Backend
 
-[![](https://skillicons.dev/icons?i=django,spring,express,postgresql,prisma)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=django,spring,express,postgresql,prisma,redis)](https://skillicons.dev)
 
 ## 🫆 Technologies
 
-[![](https://skillicons.dev/icons?i=apple,debian,kali,nodejs,apache,nginx,github,docker,aws)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=apple,debian,kali,nodejs,apache,nginx,git,github,docker,aws)](https://skillicons.dev)
 
 ---
 
