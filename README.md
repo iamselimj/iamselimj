@@ -6,6 +6,8 @@ I'm Selim - actually learning software development at Campus 19 (Member of 42 Ne
 
 Well, you'll find all the source code of every project I did for the school plus my personal projects.
 
+Here is some good ones — click the icons to explore:
+
 ## 🧬 Languages
 
 [![](https://skillicons.dev/icons?i=bash,c,cpp,go,java,python,javascript,typescript,html,css)](https://skillicons.dev)
@@ -16,11 +18,11 @@ Well, you'll find all the source code of every project I did for the school plus
 
 ## 💾 Backend
 
-[![](https://skillicons.dev/icons?i=django,spring,express,postgresql,prisma,redis)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=spring,django,express,postgresql,prisma,redis)](https://skillicons.dev)
 
 ## 🫆 Technologies
 
-[![](https://skillicons.dev/icons?i=apple,debian,kali,nodejs,npm,nginx,git,github,docker,aws,vscode)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=vscode,nodejs,pnpm,nginx,git,github,aws,docker,apple,debian,kali)](https://skillicons.dev)
 
 ---
 
