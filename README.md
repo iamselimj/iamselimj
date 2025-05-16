@@ -20,7 +20,7 @@ Well, you'll find all the source code of every project I did for the school plus
 
 ## 🫆 Technologies
 
-[![](https://skillicons.dev/icons?i=apple,debian,kali,nodejs,github,docker,aws)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=apple,debian,kali,nodejs,apache,nginx,github,docker,aws)](https://skillicons.dev)
 
 ---
 
