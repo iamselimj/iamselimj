@@ -8,7 +8,7 @@ I'm Selim - actually learning software development at Campus 19 (Member of 42 Ne
 
 ## 🖥 Frontend
 
-[![](https://skillicons.dev/icons?i=react,next,remix,vite,tailwindcss)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=react,vite,remix,next,tailwindcss)](https://skillicons.dev)
 
 ## 💾 Backend
 
