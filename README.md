@@ -1,6 +1,6 @@
 # 💻 Software Developer Student
 
-Welcome folk!
+Welcome folks!
 
 I'm actually learning software development at Campus 19 (Member of 42 Network) in Brussels, Beligum. 🇧🇪
 
