@@ -8,7 +8,7 @@ Well, you'll find all the source code of every project I did for the school plus
 
 ## 🧬 Languages
 
-[![](https://skillicons.dev/icons?i=bash,asm,c,cpp,go,java,python,javascript,typescript,html,css)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=bash,assembly,c,cpp,go,java,python,javascript,typescript,html,css)](https://skillicons.dev)
 
 ## 🖥 Frontend
 
