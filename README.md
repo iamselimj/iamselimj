@@ -6,8 +6,6 @@ I'm Selim - actually learning software development at Campus 19 (Member of 42 Ne
 
 Well, you'll find all the source code of every project I did for the school plus my personal projects.
 
-Here is some good ones — click the icons to explore:
-
 ## 🧬 Languages
 
 [![](https://skillicons.dev/icons?i=bash,c,cpp,go,java,python,javascript,typescript,html,css)](https://skillicons.dev)
