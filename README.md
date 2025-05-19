@@ -16,7 +16,7 @@ Well, you'll find all the source code of every project I did for the school plus
 
 ## 💾 Backend
 
-[![](https://skillicons.dev/icons?i=spring,django,express,postgresql,prisma,redis)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=spring,django,express,nest,postgresql,prisma,redis)](https://skillicons.dev)
 
 ## 🫆 Technologies
 
