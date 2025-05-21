@@ -2,9 +2,6 @@
 
 Actually learning software development at Campus 19 (Member of 42 Network) in Brussels, Belgium. 🇧🇪
 
-# What you'll find ?
-
-Well, you'll find all the source code of every project I did for the school plus my personal projects.
 
 ## 🧬 Languages
 
